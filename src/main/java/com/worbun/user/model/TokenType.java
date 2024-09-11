@@ -1,0 +1,1 @@
+package com.worbun.user.model;public enum TokenType {    BEARER}

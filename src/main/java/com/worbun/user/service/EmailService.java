@@ -1,0 +1,1 @@
+package com.worbun.user.service;public interface EmailService {    void enviarCodigoRecuperacion(String destino, String codigo);}
